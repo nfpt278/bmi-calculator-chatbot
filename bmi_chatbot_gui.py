@@ -38,4 +38,5 @@ entry_weight = tk.Entry(root)
 entry_weight.pack()
 
 tk.Label(root, text="Chiều cao (m):").pack()
-entry_height
+entry_height = tk.Entry(root)
+entry_height.pack()
